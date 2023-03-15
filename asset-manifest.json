@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sucaad-portfolio_v2/static/css/main.073c9b0a.css",
+    "main.js": "/sucaad-portfolio_v2/static/js/main.c7dde3e6.js",
+    "static/js/787.73f74929.chunk.js": "/sucaad-portfolio_v2/static/js/787.73f74929.chunk.js",
+    "static/media/logo.svg": "/sucaad-portfolio_v2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sucaad-portfolio_v2/index.html",
+    "main.073c9b0a.css.map": "/sucaad-portfolio_v2/static/css/main.073c9b0a.css.map",
+    "main.c7dde3e6.js.map": "/sucaad-portfolio_v2/static/js/main.c7dde3e6.js.map",
+    "787.73f74929.chunk.js.map": "/sucaad-portfolio_v2/static/js/787.73f74929.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c7dde3e6.js"
+  ]
+}
