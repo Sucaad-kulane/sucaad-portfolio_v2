@@ -7,7 +7,22 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  background-color: rgb(234, 112, 167);
+  justify-content: center;
+  color: rgb(246, 228, 244);
+  text-align: center;
+  padding-left: 30px  ;
+  padding-right: 30px;
+  height: 50px ;
 }
+
+.front{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+}
+
