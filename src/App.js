@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <div >
-        <Header/>
+        <Navbar/>
         <Routes>
           <Route path="/" element={<Home name= {"Sucaad"} title={"web developer"} />}/>
           <Route path="/contact" element={<Contact/>}/>
