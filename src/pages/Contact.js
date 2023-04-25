@@ -3,7 +3,7 @@ import { FaLinkedin, FaTwitterSquare, FaGithub } from 'react-icons/fa';
 const Contact = ({ name, title }) => {
     return <div>
         <section className="front">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeGHwmhCFbrbiSUkl-tz4SeNDIjSYU-Bp0Aw&usqp=CAU" />
+            <img src="" />
         </section>
         <div style={{ textAlign: 'center' }}>
             <h1>Find me here:</h1>
